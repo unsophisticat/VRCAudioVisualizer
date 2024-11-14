@@ -1,4 +1,4 @@
-# VRC Simple Audio Visualizer
+# VRC Audio Visualizer
 
 ---
 
